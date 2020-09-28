@@ -1,6 +1,8 @@
 # VI_Earth_raspberryPI
 상명대학교 임베디드 시스템 3조 Vi Earth - 라즈베리파이
 
+[실행 영상](https://youtu.be/bR5_IRo4VVs)
+
 실시간 서버 구현!
 1. 라즈베리파이에 mariadb를 설치 후 db의 저장 내용을 보기 쉽게 하기 위해 윈도우에 HeidiSQL을 설치하였다.
 
